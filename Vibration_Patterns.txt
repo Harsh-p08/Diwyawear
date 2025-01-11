@@ -1,0 +1,22 @@
+Vibration Patterns 
+
+In PV4 and PV5, we designed the vibration patterns in a way that is easy to understand and not very surprising to the user. The user can quickly feel the different vibration patterns going on simultaneously. 
+
+
+Vibration Patterns amongst Prototype
+
+PV4 - The vibration Pattern in prototype 4 is done so that it is easy for the user to identify the vibration at different positions. In a single cluster, there are 4 vibration motors connected to give the user a proper vibration feeling. There are 5 clusters in prototype 4, which makes 20 vibration motors used in total. Overall, we arranged the clusters, making a "+" sign. One is at the top, three are at the middle, and one is at the bottom.
+
+We made 6 vibration patterns for 6 classes: person, laptop or TV, chair, traffic light, bottle, and bench. Now, according to the different nearest objects present in front of the user, we had assigned different patterns to them these are the patterns we had assigned - In the first vibration pattern, the leftmost cluster will vibrate; in the second pattern, the right-most cluster will vibrate; in the third pattern, the uppermost, bottom and the middle cluster will vibrate, making a vertical line pattern; in the fourth pattern the 3 clusters present at the mid will vibrate, making it a horizontal pattern; in the fifth pattern the uppermost cluster will vibrate, and in the sixth pattern all the clusters will vibrate simultaneously. 
+
+
+
+PV5 - The Pattern in Prototype 5 is designed uniquely, as we have assigned different vibration motors to different clusters. There are a total of 7 clusters in PV5. Three clusters have 4 vibration motors, each making a "+" sign. Two clusters have 4 vibration motors, each making a horizontal line. The two clusters have 5 vibration motors each, making one pattern a clockwise tilted 'T' and anti-clockwise 'T'.
+
+Then, we assigned different patterns to various classes. The first pattern is assigned to the clusters at the right, which is one '+' sign pattern and a clockwise tilted 'T'. The second is assigned to the clusters at the left, which is one '+' sign pattern and an anti-clockwise tilted 'T'. The third is assigned to the clusters present in the middle, making a vertical line. The fourth is assigned to the topmost clusters and a cluster at the middle. The fifth pattern is assigned to all the clusters at the bottom, and the last pattern includes all the clusters to vibrate.  
+
+
+
+
+
+

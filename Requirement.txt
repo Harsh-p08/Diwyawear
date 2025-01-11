@@ -1,0 +1,6 @@
+
+Some of the important required libraries for the code are numpy, opencv-contrib-python, opencv-python, ultralytics, pyrealsense2 , and Jetson.GPIO in 1.24.4, 4.9.0.80, 4.8.1.78, 8.1.23, 2.54.2.5684, and 2.1.6 versions respectively.  
+
+
+
+
