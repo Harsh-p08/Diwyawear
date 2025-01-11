@@ -1,3 +1,14 @@
+# Summary
+
+The study focuses on designing ‘DivyaWear’ haptic cueing system – wearable technology to assist visually impaired patients to improve their mobility. Equipped with 3D camera, LiDAR sensor, and vibration motor, it can detect the obstacles in real time and offer haptic sensation simultaneously.
+
+The system is implemented through two prototypes: PV4 and PV5. For sensor feedback, PV4 employs a 3D camera and vibration motors for object detection and feedback, while PV5 replaces the 3D camera with LiDAR for better precision and to avoid having just a single point of failure. These prototypes use object recognition from YOLOv8 and use different haptic feedback patterns for various barriers so as not to confuse the wearer.
+
+To the lists of the noticeable project traits, observers have come up with such options as Comfortable and lightweight fabric for the vest, Opportunities for the users creating their designs, and Improved mobility. The results obtained in structured tracks showed that prototypes provided the ability to maneuver around the complex environments, and PV5 was considerably better than PV4 because of the increased number of sensors and improved construction.
+
+The study is focused on developing a low-cost reliable solution for visually impaired users that is both feasible for implementation, with the future prospects involving wireless communication and additional improvement of functionality for such users.
+
+
 # Object Detection and Distance Measurement with YOLOv8, RealSense, and LiDAR
 
 This project utilizes the YOLOv8 object detection model, Intel RealSense camera, and optional LiDAR sensor to detect objects, measure their distances, and control GPIO pins accordingly. It supports two versions (protoypes):
