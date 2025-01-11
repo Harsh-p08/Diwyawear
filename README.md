@@ -35,7 +35,6 @@ This project utilizes the YOLOv8 object detection model, Intel RealSense camera,
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/Harsh-p08/Diwyawear
-    cd PT5 or cd PT4
     ```
 
 2. **Install Dependencies**:
